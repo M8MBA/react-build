@@ -10,12 +10,12 @@ function Footer() {
     {
       name: 'linkedin',
       icon: '',
-      link: '/',
+      link: '/https://www.linkedin.com/in/cade-wilson-bullough-6b8569177/',
     },
     {
       name: 'stackoverflow',
       icon: '',
-      link: '/',
+      link: '/https://stackoverflow.com/users/17828535/m8mba',
     },
   ];
   return (
