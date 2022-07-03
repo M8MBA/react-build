@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-build/static/css/main.b89eda1c.css",
+    "main.js": "/react-build/static/js/main.6a093a0b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-build/static/js/787.1ed0c42c.chunk.js",
+    "static/media/runbuddy.png": "/react-build/static/media/runbuddy.f357f9db9d10605ad0c7.png",
+    "static/media/NP-planner.png": "/react-build/static/media/NP-planner.43d6dfe921b0b2742349.png",
+    "static/media/avatar.jpg": "/react-build/static/media/avatar.a50049a50f35c0655abb.jpg",
+    "static/media/weather-dashboard.png": "/react-build/static/media/weather-dashboard.069623e48329731bbab9.png",
+    "static/media/password-gen.png": "/react-build/static/media/password-gen.6a62f37063c8a86752f1.png",
+    "static/media/icomoon.svg?gnjb7u": "/react-build/static/media/icomoon.ed10c04faa9239eac9dc.svg",
+    "static/media/icomoon.eot?gnjb7u": "/react-build/static/media/icomoon.374ac27e6e9b00505673.eot",
+    "static/media/icomoon.woff?gnjb7u": "/react-build/static/media/icomoon.c016c932ac286bbba27f.woff",
+    "static/media/icomoon.ttf?gnjb7u": "/react-build/static/media/icomoon.0fdcabd465a2a74340d5.ttf",
+    "index.html": "/react-build/index.html",
+    "main.b89eda1c.css.map": "/react-build/static/css/main.b89eda1c.css.map",
+    "main.6a093a0b.js.map": "/react-build/static/js/main.6a093a0b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-build/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89eda1c.css",
+    "static/js/main.6a093a0b.js"
+  ]
+}
